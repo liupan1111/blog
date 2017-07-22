@@ -6,11 +6,11 @@ kramdown:
 
 permalink: /posts/:title.html
 auto: true
-title: Eric's Blog
+title: Pan's Blog
 author:
-  name: Eric
-  email: wjin.cn@gmail.com
-  github: wjin
+  name: Pan Liu
+  email: liupan1111@gmail.com
+  github: liupan1111
 
 production_url: http://blog.wjin.org
 

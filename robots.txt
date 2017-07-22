@@ -1,5 +1,5 @@
 User-agent: *
 Disallow: /assets
 Allow: /posts
-Sitemap: http://blog.wjin.org/sitemap.txt
-Sitemap: http://blog.wjin.org/atom.xml
+Sitemap: http://liupan1111.github.io/sitemap.txt
+Sitemap: http://liupan1111.github.io/atom.xml
